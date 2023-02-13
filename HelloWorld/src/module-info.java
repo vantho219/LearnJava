@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Darling
+ *
+ */
+module HelloWorld {
+}
